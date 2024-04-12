@@ -1,4 +1,4 @@
-Hi 👋 My name is Roberto Collantes
+My name is Roberto Collantes
 ==================================
 
 Back-end Software Engineer
