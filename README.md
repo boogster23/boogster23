@@ -1,7 +1,7 @@
 Hi 👋 My name is Roberto Collantes
 ==================================
 
-Back-end Software Engineer
+Software Engineer
 -----------------
 
 A seasoned software engineer that has been exposed to different industries and loves to challenge himself mentally (and physically). My main programming language is C#, and has used it mainly developing web projects. I also have good experience on some javascript frameworks like Vue and React.
